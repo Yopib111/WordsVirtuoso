@@ -1,0 +1,31 @@
+# Project exclude paths
+/.gradle/
+/Topics/Commonly Used Regex/First (and) last name/out/
+/Topics/Commonly Used Regex/First (and) last name/out/production/classes/
+/Topics/Commonly Used Regex/New dates/out/
+/Topics/Commonly Used Regex/New dates/out/production/classes/
+/Topics/Commonly Used Regex/Pa/out/
+/Topics/Commonly Used Regex/Pa/out/production/classes/
+/Topics/Commonly Used Regex/Password validation/out/
+/Topics/Commonly Used Regex/Password validation/out/production/classes/
+/Topics/Commonly Used Regex/Phones without 9/out/
+/Topics/Commonly Used Regex/Phones without 9/out/production/classes/
+/Topics/For loop and arrays/Counting/out/
+/Topics/For loop and arrays/Counting/out/production/classes/
+/Topics/For loop and arrays/Is it here/out/
+/Topics/For loop and arrays/Is it here/out/production/classes/
+/Topics/For loop and arrays/Just checking/out/
+/Topics/For loop and arrays/Just checking/out/production/classes/
+/Topics/Quantifiers/OK Computer/out/
+/Topics/Quantifiers/OK Computer/out/production/classes/
+/Topics/Regexps in use/Aaaaaaa to a/out/
+/Topics/Regexps in use/Aaaaaaa to a/out/production/classes/
+/Topics/Regexps in use/Camels vs. snakes/out/
+/Topics/Regexps in use/Camels vs. snakes/out/production/classes/
+/Topics/Regexps in use/Sike, that's the wrong number/out/
+/Topics/Regexps in use/Sike, that's the wrong number/out/production/classes/
+/Topics/Regexps in use/Web colors/out/
+/Topics/Regexps in use/Web colors/out/production/classes/
+/Words Virtuoso/task/build/
+/Words Virtuoso/task/out/
+/Words Virtuoso/task/out/production/classes/

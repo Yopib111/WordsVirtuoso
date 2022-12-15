@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun solution(strings: MutableList<String>): Set<String> {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11297#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 08 Dec 2022 17:45:34 UTC"
+record: -1
